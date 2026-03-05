@@ -1,5 +1,6 @@
 /*
     1758. Minimum Changes To Make Alternating Binary String
+    Date : 05-03-2026
 */
 
 #include<bits/stdc++.h>
